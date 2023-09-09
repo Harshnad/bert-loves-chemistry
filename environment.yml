@@ -18,8 +18,11 @@ dependencies:
   - pre_commit
   - python=3.8
   - pytorch
+  - torchaudio
+  - pytorch-lightning
   - rdkit
   - regex
+  - jax
   - s3fs
   - scikit-learn
   - scipy
