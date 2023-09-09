@@ -22,7 +22,6 @@ dependencies:
   - pytorch-lightning
   - rdkit
   - regex
-  - jax
   - s3fs
   - scikit-learn
   - scipy
